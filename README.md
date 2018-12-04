@@ -1,6 +1,6 @@
 # Guía de Talleres
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SBG-ARG/talleres.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BioinfoALaEscuela/talleres.git/master)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
 [http://ufq.unq.edu.ar/sbg/education/index.html](http://ufq.unq.edu.ar/sbg/education/index.html)
