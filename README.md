@@ -28,15 +28,13 @@ bioinformática aporta una manera clara y precisa de percibir los procesos biol�
 estudiantes herramientas que integran múltiples conocimientos (lógico-matemático, biológico, físico,
 estadístico) generando un aprendizaje significativo y envolvente.
 
-## Instalación
-
-
-
 ## Uso
 
-## Dependencias
+- Si tienes Python instalado en tu [PC](https://www.python.org/) o en tu [Teléfono](https://play.google.com/store/apps/details?id=org.qpython.qpy&hl=es_419), puedes descargar y practicar con la [Guía de Talleres](http://ufq.unq.edu.ar/sbg/files/Guia_Taller_Programacion_Biologia_2018.1.pdf) o con los [Ejercicios Complementarios](http://ufq.unq.edu.ar/sbg/files/Guia_Complementaria_Taller_Programacion_Biologia_2018.1.pdf)
 
+- Puedes practicar con estos notebooks de forma online [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
+- Puedes practicar con estos notebooks de forma online [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BioinfoALaEscuela/talleres.git/master)
 
 ## License
 
