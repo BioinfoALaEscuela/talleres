@@ -3,11 +3,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BioinfoALaEscuela/talleres.git/master)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
-[http://ufq.unq.edu.ar/sbg/education/index.html](http://ufq.unq.edu.ar/sbg/education/index.html)
-
 <a href="http://ufq.unq.edu.ar/sbg/index.html"><img src="http://ufq.unq.edu.ar/sbg/images/top.jpg" align="center" hspace="40" vspace="6" alt="SGB logo" width="300px"></a>
 
-**Education:** Nuestro proyecto busca promover el uso de la Bioinformática como herramienta para la enseñanza y aprendizaje de la Biología. Para ello abordamos en nuestros [talleres](http://ufq.unq.edu.ar/sbg/education/index.html#Taller) las instrucciones básicas del lenguaje de programación Python y, a partir de ejemplos sencillos, aplicamos estos contenidos en la manipulación de datos biológicos como secuencias de proteínas y de ácidos nucleicos. Los talleres, que comenzaron en 2017 en tres escuelas de la ciudad de La Plata, están pensados para estudiantes que no posean experiencia previa en programación, pero sí tengan conocimientos básicos de Biología y Matemáticas.
+**Education:** Nuestro [proyecto](http://ufq.unq.edu.ar/sbg/education/index.html) busca promover el uso de la Bioinformática como herramienta para la enseñanza y aprendizaje de la Biología. Para ello abordamos en nuestros [talleres](http://ufq.unq.edu.ar/sbg/education/index.html#Taller) las instrucciones básicas del lenguaje de programación Python y, a partir de ejemplos sencillos, aplicamos estos contenidos en la manipulación de datos biológicos como secuencias de proteínas y de ácidos nucleicos. Los talleres, que comenzaron en 2017 en tres escuelas de la ciudad de La Plata, están pensados para estudiantes que no posean experiencia previa en programación, pero sí tengan conocimientos básicos de Biología y Matemáticas.
 
  ## Descripción:
 
